@@ -8,7 +8,7 @@ bool win = false;
 int main(void);
 {
   bool bgold = false, bred = false, bpink = false, bpurple = false, bblue = false;
-  int wgold = 
+  int cpull = 0;
   int varrepeat = 0;
 
   //random generator for cases
@@ -18,11 +18,12 @@ int main(void);
 
   do {
      cout << "Case Simulator" << endl << endl;
+     casewin = cpull;
 
-    
+	if (casewin = 
 
 
-     
+		
      cout  << "Skin rarity: " << 
 
     
